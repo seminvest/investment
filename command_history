@@ -1,0 +1,30 @@
+
+#command history
+docker run -i -t --rm python
+docker rmi -force 9fefcc70da26
+docker exec thirsty_euclid cat FB.csv > FB_2.csv
+
+   12  docker images
+   13  docker run -it stock_analysis sh
+   14  docker run --rm stock_analysis
+   15  docker run --rm stock_analysis ls
+   16  docker run --rm stock_analysis ls -lra
+   17  docker run --rm stock_analysis ls -lrt
+   19  docker exec stock_analysis cat TSLA.csv > file_on_host 
+   20  docker ps -a
+   21  docker exec thirsty_euclid cat TSLA.csv > file_on_host 
+   26  docker exec thirsty_euclid cat TSLA.csv > TSLA.csv
+   33  docker exec thirsty_euclid cat FB.csv > FB_2.csv
+   34  docker exec thirsty_euclid cat AAPL.csv > AAPL_2.csv
+   42  docker exec thirsty_euclid cat AAPL.csv > AAPL_2.csv
+   46  docker login --username=seminvest --email=seminvest@gmail.com
+   47  docker login --username=seminvest 
+   48  docker images
+   49  docker tag bb4a6ebacb54 seminvest/stock_analysis:firstsave
+   50  docker push seminvest/stock_analysis
+   79  history | grep docker
+
+# tasks
+1. figure out how to read from sub directory
+
+

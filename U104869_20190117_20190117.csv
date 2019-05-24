@@ -1,0 +1,292 @@
+﻿Statement,Header,Field Name,Field Value
+Statement,Data,BrokerName,Interactive Brokers
+Statement,Data,BrokerAddress,
+Statement,Data,Title,Activity Statement
+Statement,Data,Period,"January 17, 2019"
+Statement,Data,WhenGenerated,"2019-01-18, 23:46:28 EST"
+Account Information,Header,Field Name,Field Value
+Account Information,Data,Name,Rui Tang
+Account Information,Data,Account,U104869
+Account Information,Data,Account Type,Individual
+Account Information,Data,Customer Type,Individual
+Account Information,Data,Account Capabilities,Margin
+Account Information,Data,Base Currency,USD
+Net Asset Value,Header,Asset Class,Prior Total,Current Long,Current Short,Current Total,Change
+Net Asset Value,Data,Cash ,51921.116871761,51921.116871761,0,51921.116871761,0
+Net Asset Value,Data,Stock,124635.54,125085.82,0,125085.82,450.28
+Net Asset Value,Data,Options,-10670.41,0,-10422.09,-10422.09,248.32
+Net Asset Value,Data,Interest Accruals,29.1,31.09,0,31.09,1.99
+Net Asset Value,Data,Dividend Accruals,1.3209,1.3209,0,1.3209,0
+Net Asset Value,Data,Total,165916.667771761,177039.347771761,-10422.09,166617.257771761,700.59
+Net Asset Value,Header,Time Weighted Rate of Return
+Net Asset Value,Data,0.422254141%
+Change in NAV,Header,Field Name,Field Value
+Change in NAV,Data,Starting Value,165916.667771761
+Change in NAV,Data,Mark-to-Market,698.6
+Change in NAV,Data,Change in Interest Accruals,1.99
+Change in NAV,Data,Ending Value,166617.257771761
+Mark-to-Market Performance Summary,Header,Asset Category,Symbol,Prior Quantity,Current Quantity,Prior Price,Current Price,Mark-to-Market P/L Position,Mark-to-Market P/L Transaction,Mark-to-Market P/L Commissions,Mark-to-Market P/L Other,Mark-to-Market P/L Total,Code
+Mark-to-Market Performance Summary,Data,Stocks,656,12000,12000,10.8000,10.6000,-306,0,0,0,-306,
+Mark-to-Market Performance Summary,Data,Stocks,700,400,400,331.0000,331.2000,10.2,0,0,0,10.2,
+Mark-to-Market Performance Summary,Data,Stocks,FB,360,360,147.5400,148.3000,273.6,0,0,0,273.6,
+Mark-to-Market Performance Summary,Data,Stocks,MA,100,100,197.7700,199.3100,154,0,0,0,154,
+Mark-to-Market Performance Summary,Data,Stocks,MU,100,100,33.5800,33.8800,30,0,0,0,30,
+Mark-to-Market Performance Summary,Data,Stocks,NVDA,100,100,148.8400,151.7200,288,0,0,0,288,
+Mark-to-Market Performance Summary,Data,Stocks,XLRE,3,3,32.3800,32.5400,0.48,0,0,0,0.48,
+Mark-to-Market Performance Summary,Data,Total,,,,,,450.28,0,0,0,450.28,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,AAPL 15MAR19 160.0 P,-1,-1,9.6571,9.0617,59.54,0,0,0,59.54,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,BABA 15FEB19 145.0 P,-1,-1,2.9327,2.6616,27.11,0,0,0,27.11,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,FB 15MAR19 130.0 P,-1,-1,2.1902,2.2242,-3.4,0,0,0,-3.4,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,MTN 19JUL19 185.0 P,-1,-1,16.9857,18.9507,-196.5,0,0,0,-196.5,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,MU 18JAN19 40.0 P,-1,-1,6.4200,6.1330,28.7,0,0,0,28.7,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,MU 18JAN19 44.0 P,-1,-1,10.4200,10.1327,28.73,0,0,0,28.73,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,OLED 15MAR19 100.0 P,-1,-1,11.2990,10.5042,79.48,0,0,0,79.48,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,PYPL 21JUN19 90.0 P,-1,-1,6.5076,6.4680,3.96,0,0,0,3.96,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SFIX 15MAR19 18.0 P,-1,-1,1.2565,1.1016,15.49,0,0,0,15.49,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SFIX 15MAR19 25.0 P,-1,-1,5.2878,4.7321,55.57,0,0,0,55.57,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SFIX 21JUN19 17.0 P,-1,-1,1.8810,1.7584,12.26,0,0,0,12.26,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,TSLA 15MAR19 350.0 P,-1,-1,31.8655,30.4926,137.29,0,0,0,137.29,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,XLNX 18JAN19 75.0 P,-1,-1,0.0010,0.0001,0.09,0,0,0,0.09,
+Mark-to-Market Performance Summary,Data,Total,,,,,,248.32,0,0,0,248.32,
+Mark-to-Market Performance Summary,Data,Forex,HKD,32672.26530494,32672.26530494,0.1275,0.1275,0,0,0,0,0,
+Mark-to-Market Performance Summary,Data,Forex,USD,47755.403045381,47755.403045381,1.0000,1.0000,0,0,0,0,0,
+Mark-to-Market Performance Summary,Data,Total,,,,,,0,0,0,0,0,
+Mark-to-Market Performance Summary,Data,Total (All Assets),,,,,,698.6,0,0,0,698.6,
+Realized & Unrealized Performance Summary,Header,Asset Category,Symbol,Cost Adj.,Realized S/T Profit,Realized S/T Loss,Realized L/T Profit,Realized L/T Loss,Realized Total,Unrealized S/T Profit,Unrealized S/T Loss,Unrealized L/T Profit,Unrealized L/T Loss,Unrealized Total,Total,Code
+Realized & Unrealized Performance Summary,Data,Stocks,656,0,0,0,0,0,0,0,0,0,-10163.79197625,-10163.79197625,-10163.79197625,
+Realized & Unrealized Performance Summary,Data,Stocks,700,0,0,0,0,0,0,0,-835.475523,4814.5708551,0,3979.0953321,3979.0953321,
+Realized & Unrealized Performance Summary,Data,Stocks,FB,0,0,0,0,0,0,997.304465,-815.405168,1944.566667,-1420.039621,706.426343,706.426343,
+Realized & Unrealized Performance Summary,Data,Stocks,MA,0,0,0,0,0,0,150,0,0,0,150,150,
+Realized & Unrealized Performance Summary,Data,Stocks,MU,0,0,0,0,0,0,0,-1689.151997,0,0,-1689.151997,-1689.151997,
+Realized & Unrealized Performance Summary,Data,Stocks,NVDA,0,0,0,0,0,0,0,0,9549.944,0,9549.944,9549.944,
+Realized & Unrealized Performance Summary,Data,Stocks,XLRE,0,0,0,0,0,0,0,0,0,-1.697955,-1.697955,-1.697955,
+Realized & Unrealized Performance Summary,Data,Total,,0,0,0,0,0,0,1147.304465,-3340.032688,16309.0815221,-11585.52955225,2530.82374685,2530.82374685,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,AAPL 15MAR19 160.0 P,0,0,0,0,0,0,137.730115,0,0,0,137.730115,137.730115,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,BABA 15FEB19 145.0 P,0,0,0,0,0,0,783.04005,0,0,0,783.04005,783.04005,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,FB 15MAR19 130.0 P,0,0,0,0,0,0,696.78174,0,0,0,696.78174,696.78174,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,MTN 19JUL19 185.0 P,0,0,0,0,0,0,0,-196.1784,0,0,-196.1784,-196.1784,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,MU 18JAN19 40.0 P,0,0,0,0,0,0,0,-264.39085,0,0,-264.39085,-264.39085,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,MU 18JAN19 44.0 P,0,0,0,0,0,0,0,-639.061175,0,0,-639.061175,-639.061175,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,OLED 15MAR19 100.0 P,0,0,0,0,0,0,248.4768,0,0,0,248.4768,248.4768,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,PYPL 21JUN19 90.0 P,0,0,0,0,0,0,112.40382,0,0,0,112.40382,112.40382,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SFIX 15MAR19 18.0 P,0,0,0,0,0,0,144.550385,0,0,0,144.550385,144.550385,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SFIX 15MAR19 25.0 P,0,0,0,0,0,0,0,-73.5515,0,0,-73.5515,-73.5515,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SFIX 21JUN19 17.0 P,0,0,0,0,0,0,163.81928,0,0,0,163.81928,163.81928,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,TSLA 15MAR19 350.0 P,0,0,0,0,0,0,500.02755,0,0,0,500.02755,500.02755,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,XLNX 18JAN19 75.0 P,0,0,0,0,0,0,549.19655,0,0,0,549.19655,549.19655,
+Realized & Unrealized Performance Summary,Data,Total,,0,0,0,0,0,0,3336.02629,-1173.181925,0,0,2162.844365,2162.844365,
+Realized & Unrealized Performance Summary,Data,Forex,HKD,0,0,0,0,0,0,3.355485,0,0,0,3.355485,3.355485,
+Realized & Unrealized Performance Summary,Data,Total,,0,0,0,0,0,0,3.355485,0,0,0,3.355485,3.355485,
+Realized & Unrealized Performance Summary,Data,Total (All Assets),,0,0,0,0,0,0,4486.68624,-4513.214613,16309.0815221,-11585.52955225,4697.02359685,4697.02359685,
+Month & Year to Date Performance Summary,Header,Asset Category,Symbol,Description,Mark-to-Market MTD,Mark-to-Market YTD,Realized S/T MTD,Realized S/T YTD,Realized L/T MTD,Realized L/T YTD
+Month & Year to Date Performance Summary,Data,Stocks,656,FOSUN INTERNATIONAL LTD,-1225.416,-1225.416,0,0,0,0
+Month & Year to Date Performance Summary,Data,Stocks,700,TENCENT HOLDINGS LTD,877.728,877.728,0,0,0,0
+Month & Year to Date Performance Summary,Data,Stocks,FB,FACEBOOK INC-CLASS A,3804.6,3804.6,0,0,0,0
+Month & Year to Date Performance Summary,Data,Stocks,MA,MASTERCARD INC - A,150,150,0,0,0,0
+Month & Year to Date Performance Summary,Data,Stocks,MU,MICRON TECHNOLOGY INC,215,215,0,0,0,0
+Month & Year to Date Performance Summary,Data,Stocks,NVDA,NVIDIA CORP,1822,1822,0,0,0,0
+Month & Year to Date Performance Summary,Data,Stocks,PYPL,PAYPAL HOLDINGS INC,1857.62216887,1857.62216887,436.34565437,436.34565437,0,0
+Month & Year to Date Performance Summary,Data,Stocks,VOO,VANGUARD S&P 500 ETF,118.8363107,118.8363107,47.2363107,47.2363107,0,0
+Month & Year to Date Performance Summary,Data,Stocks,XLRE,REAL ESTATE SELECT SECT SPDR,4.62,4.62,0,0,0,0
+Month & Year to Date Performance Summary,Data,Total,,,7624.99047957,7624.99047957,483.58196507,483.58196507,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,AAPL  190315P00160000,AAPL 15MAR19 160.0 P,214.32,214.32,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,BABA  190215P00145000,BABA 15FEB19 145.0 P,1009.77,1009.77,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,FB    190118P00155000,FB 18JAN19 155.0 P,2391.2,2391.2,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,FB    190315P00130000,FB 15MAR19 130.0 P,663.02,663.02,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,MTN   190719P00185000,MTN 19JUL19 185.0 P,-196.1784,-196.1784,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,MU    190118P00040000,MU 18JAN19 40.0 P,216.28,216.28,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,MU    190118P00044000,MU 18JAN19 44.0 P,213.73,213.73,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,OLED  190315P00100000,OLED 15MAR19 100.0 P,393.67,393.67,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,PYPL  190621P00090000,PYPL 21JUN19 90.0 P,112.40382,112.40382,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,SFIX  190315P00018000,SFIX 15MAR19 18.0 P,191.09,191.09,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,SFIX  190315P00025000,SFIX 15MAR19 25.0 P,366.58,366.58,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,SFIX  190621P00017000,SFIX 21JUN19 17.0 P,179.31,179.31,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,TSLA  190315P00350000,TSLA 15MAR19 350.0 P,1375.12,1375.12,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,XLNX  190118P00075000,XLNX 18JAN19 75.0 P,47.32,47.32,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,XOM   190315P00065000,XOM 15MAR19 65.0 P,154.6957,154.6957,315.694395,315.694395,0,0
+Month & Year to Date Performance Summary,Data,Total,,,7332.33112,7332.33112,315.694395,315.694395,0,0
+Month & Year to Date Performance Summary,Data,Total (All Assets),,,14957.32159957,14957.32159957,799.27636007,799.27636007,0,0
+Cash Report,Header,Currency Summary,Currency,Total,Securities,Futures,Month to Date,Year to Date,
+Cash Report,Data,Starting Cash,Base Currency Summary,51921.116871761,51921.116871761,0,,,
+Cash Report,Data,Commissions,Base Currency Summary,0,0,0,-7.87040043,-7.87040043,
+Cash Report,Data,Broker Interest Paid and Received,Base Currency Summary,0,0,0,19.1,19.1,
+Cash Report,Data,Net Trades (Sales),Base Currency Summary,0,0,0,34263.11,34263.11,
+Cash Report,Data,Net Trades (Purchase),Base Currency Summary,0,0,0,-35347,-35347,
+Cash Report,Data,Other Fees,Base Currency Summary,0,0,0,-14.5,-14.5,
+Cash Report,Data,Cash FX Translation Gain/Loss,Base Currency Summary,0,0,0,,,
+Cash Report,Data,Ending Cash,Base Currency Summary,51921.116871761,51921.116871761,0,,,
+Cash Report,Data,Ending Settled Cash,Base Currency Summary,53570.116871761,53570.116871761,0,,,
+Cash Report,Data,Starting Cash,HKD,32672.26530494,32672.26530494,0,,,
+Cash Report,Data,Ending Cash,HKD,32672.26530494,32672.26530494,0,,,
+Cash Report,Data,Ending Settled Cash,HKD,32672.26530494,32672.26530494,0,,,
+Cash Report,Data,Starting Cash,USD,47755.403045381,47755.403045381,0,,,
+Cash Report,Data,Commissions,USD,0,0,0,-7.87040043,-7.87040043,
+Cash Report,Data,Broker Interest Paid and Received,USD,0,0,0,19.1,19.1,
+Cash Report,Data,Net Trades (Sales),USD,0,0,0,34263.11,34263.11,
+Cash Report,Data,Net Trades (Purchase),USD,0,0,0,-35347,-35347,
+Cash Report,Data,Other Fees,USD,0,0,0,-14.5,-14.5,
+Cash Report,Data,Ending Cash,USD,47755.403045381,47755.403045381,0,,,
+Cash Report,Data,Ending Settled Cash,USD,49404.403045381,49404.403045381,0,,,
+Open Positions,Header,DataDiscriminator,Asset Category,Currency,Symbol,Quantity,Mult,Cost Price,Cost Basis,Close Price,Value,Unrealized P/L,Code
+Open Positions,Data,Summary,Stocks,HKD,656,12000,1,17.243001292,206916.0155,10.6,127200,-79716.0155,
+Open Positions,Data,Summary,Stocks,HKD,700,400,1,253.1785229,101271.40916,331.2,132480,31208.59084,
+Open Positions,Total,,Stocks,HKD,,,,,308187.42466,,259680,-48507.42466,
+Open Positions,Total,,Stocks,USD,,,,,39293.89664415,,33109.2,-6184.69664415,
+Open Positions,Data,Summary,Stocks,USD,FB,360,1,146.337704603,52681.573657,148.3,53388,706.426343,SY
+Open Positions,Data,Summary,Stocks,USD,MA,100,1,197.81,19781,199.31,19931,150,
+Open Positions,Data,Summary,Stocks,USD,MU,100,1,50.77151997,5077.151997,33.88,3388,-1689.151997,
+Open Positions,Data,Summary,Stocks,USD,NVDA,100,1,56.22056,5622.056,151.72,15172,9549.944,
+Open Positions,Data,Summary,Stocks,USD,XLRE,3,1,33.105985,99.317955,32.54,97.62,-1.697955,
+Open Positions,Total,,Stocks,USD,,,,,83261.099609,,91976.62,8715.520391,
+Open Positions,Total,,Stocks,USD,,,,,122554.99625315,,125085.82,2530.82374685,
+Open Positions,Header,DataDiscriminator,Asset Category,Currency,Symbol,Quantity,Mult,Cost Price,Cost Basis,Close Price,Value,Unrealized P/L,Code
+Open Positions,Data,Summary,Equity and Index Options,USD,AAPL 15MAR19 160.0 P,-1,100,10.43900115,-1043.900115,9.0617,-906.17,137.730115,
+Open Positions,Data,Summary,Equity and Index Options,USD,BABA 15FEB19 145.0 P,-1,100,10.4920005,-1049.20005,2.6616,-266.16,783.04005,
+Open Positions,Data,Summary,Equity and Index Options,USD,FB 15MAR19 130.0 P,-1,100,9.1920174,-919.20174,2.2242,-222.42,696.78174,
+Open Positions,Data,Summary,Equity and Index Options,USD,MTN 19JUL19 185.0 P,-1,100,16.988916,-1698.8916,18.9507,-1895.07,-196.1784,
+Open Positions,Data,Summary,Equity and Index Options,USD,MU 18JAN19 40.0 P,-1,100,3.4890915,-348.90915,6.133,-613.3,-264.39085,
+Open Positions,Data,Summary,Equity and Index Options,USD,MU 18JAN19 44.0 P,-1,100,3.74208825,-374.208825,10.1327,-1013.27,-639.061175,
+Open Positions,Data,Summary,Equity and Index Options,USD,OLED 15MAR19 100.0 P,-1,100,12.988968,-1298.8968,10.5042,-1050.42,248.4768,
+Open Positions,Data,Summary,Equity and Index Options,USD,PYPL 21JUN19 90.0 P,-1,100,7.5920382,-759.20382,6.468,-646.8,112.40382,
+Open Positions,Data,Summary,Equity and Index Options,USD,SFIX 15MAR19 18.0 P,-1,100,2.54710385,-254.710385,1.1016,-110.16,144.550385,
+Open Positions,Data,Summary,Equity and Index Options,USD,SFIX 15MAR19 25.0 P,-1,100,3.996585,-399.6585,4.7321,-473.21,-73.5515,
+Open Positions,Data,Summary,Equity and Index Options,USD,SFIX 21JUN19 17.0 P,-1,100,3.3965928,-339.65928,1.7584,-175.84,163.81928,
+Open Positions,Data,Summary,Equity and Index Options,USD,TSLA 15MAR19 350.0 P,-1,100,35.4928755,-3549.28755,30.4926,-3049.26,500.02755,
+Open Positions,Data,Summary,Equity and Index Options,USD,XLNX 18JAN19 75.0 P,-1,100,5.4920655,-549.20655,0.0001,-0.01,549.19655,
+Open Positions,Total,,Equity and Index Options,USD,,,,,-12584.934365,,-10422.09,2162.844365,
+Forex Balances,Header,Asset Category,Currency,Description,Quantity,Cost Price,Cost Basis in USD,Close Price,Value in USD,Unrealized P/L in USD,Code
+Forex Balances,Data,Forex,USD,HKD,32672.265305,0.127397299,-4162.358341,0.1275,4165.713826,3.355485,
+Forex Balances,Data,Forex,USD,USD,47755.403045381,1,-47755.403045381,1,47755.403045381,0,
+Forex Balances,Data,Total,,,,,-51917.761386381,,51921.116871381,3.355485,
+Interest Accruals,Header,Currency,Field Name,Field Value
+Interest Accruals,Data,Base Currency Summary,Starting Accrual Balance,29.1
+Interest Accruals,Data,Base Currency Summary,Interest Accrued,1.99
+Interest Accruals,Data,Base Currency Summary,Accrual Reversal,0
+Interest Accruals,Data,Base Currency Summary,Ending Accrual Balance,31.09
+Financial Instrument Information,Header,Asset Category,Symbol,Description,Conid,Security ID,Multiplier,Type,Code
+Financial Instrument Information,Data,Stocks,656,FOSUN INTERNATIONAL LTD,45089073,HK0656038673,1,COMMON,
+Financial Instrument Information,Data,Stocks,700,TENCENT HOLDINGS LTD,152791428,KYG875721634,1,COMMON,
+Financial Instrument Information,Data,Stocks,FB,FACEBOOK INC-CLASS A,107113386,,1,COMMON,
+Financial Instrument Information,Data,Stocks,MA,MASTERCARD INC - A,38685693,,1,COMMON,
+Financial Instrument Information,Data,Stocks,MU,MICRON TECHNOLOGY INC,9939,,1,COMMON,
+Financial Instrument Information,Data,Stocks,NVDA,NVIDIA CORP,4815747,,1,COMMON,
+Financial Instrument Information,Data,Stocks,XLRE,REAL ESTATE SELECT SECT SPDR,209048377,,1,ETF,
+Financial Instrument Information,Header,Asset Category,Symbol,Description,Conid,Multiplier,Expiry,Delivery Month,Type,Strike,Code
+Financial Instrument Information,Data,Equity and Index Options,AAPL  190315P00160000,AAPL 15MAR19 160.0 P,339993584,100,2019-03-15,2019-03,P,160,
+Financial Instrument Information,Data,Equity and Index Options,BABA  190215P00145000,BABA 15FEB19 145.0 P,330821517,100,2019-02-15,2019-02,P,145,
+Financial Instrument Information,Data,Equity and Index Options,FB    190315P00130000,FB 15MAR19 130.0 P,325946037,100,2019-03-15,2019-03,P,130,
+Financial Instrument Information,Data,Equity and Index Options,MTN   190719P00185000,MTN 19JUL19 185.0 P,342445214,100,2019-07-19,2019-07,P,185,
+Financial Instrument Information,Data,Equity and Index Options,MU    190118P00040000,MU 18JAN19 40.0 P,271205914,100,2019-01-18,2019-01,P,40,
+Financial Instrument Information,Data,Equity and Index Options,MU    190118P00044000,MU 18JAN19 44.0 P,315752237,100,2019-01-18,2019-01,P,44,
+Financial Instrument Information,Data,Equity and Index Options,OLED  190315P00100000,OLED 15MAR19 100.0 P,326799612,100,2019-03-15,2019-03,P,100,
+Financial Instrument Information,Data,Equity and Index Options,PYPL  190621P00090000,PYPL 21JUN19 90.0 P,319562774,100,2019-06-21,2019-06,P,90,
+Financial Instrument Information,Data,Equity and Index Options,SFIX  190315P00018000,SFIX 15MAR19 18.0 P,327393449,100,2019-03-15,2019-03,P,18,
+Financial Instrument Information,Data,Equity and Index Options,SFIX  190315P00025000,SFIX 15MAR19 25.0 P,327393489,100,2019-03-15,2019-03,P,25,
+Financial Instrument Information,Data,Equity and Index Options,SFIX  190621P00017000,SFIX 21JUN19 17.0 P,339847935,100,2019-06-21,2019-06,P,17,
+Financial Instrument Information,Data,Equity and Index Options,TSLA  190315P00350000,TSLA 15MAR19 350.0 P,313477540,100,2019-03-15,2019-03,P,350,
+Financial Instrument Information,Data,Equity and Index Options,XLNX  190118P00075000,XLNX 18JAN19 75.0 P,255417129,100,2019-01-18,2019-01,P,75,
+Base Currency Exchange Rate,Header,Currency,Rate
+Base Currency Exchange Rate,Data,AUD,0.719290
+Base Currency Exchange Rate,Data,BRL,0.266630
+Base Currency Exchange Rate,Data,CAD,0.753130
+Base Currency Exchange Rate,Data,CHF,1.005800
+Base Currency Exchange Rate,Data,CNH,0.147570
+Base Currency Exchange Rate,Data,CNY,0.147570
+Base Currency Exchange Rate,Data,CZK,0.044593
+Base Currency Exchange Rate,Data,DKK,0.152570
+Base Currency Exchange Rate,Data,EUR,1.139100
+Base Currency Exchange Rate,Data,GBP,1.298600
+Base Currency Exchange Rate,Data,HKD,0.127500
+Base Currency Exchange Rate,Data,HUF,0.003565
+Base Currency Exchange Rate,Data,ILS,0.270860
+Base Currency Exchange Rate,Data,INR,0.014075
+Base Currency Exchange Rate,Data,JPY,0.009153
+Base Currency Exchange Rate,Data,KRW,0.000891
+Base Currency Exchange Rate,Data,MXN,0.052584
+Base Currency Exchange Rate,Data,NOK,0.116950
+Base Currency Exchange Rate,Data,NZD,0.676350
+Base Currency Exchange Rate,Data,PLN,0.265690
+Base Currency Exchange Rate,Data,RUB,0.015073
+Base Currency Exchange Rate,Data,SEK,0.110870
+Base Currency Exchange Rate,Data,SGD,0.737630
+Base Currency Exchange Rate,Data,THB,0.031502
+Base Currency Exchange Rate,Data,TRY,0.187020
+Base Currency Exchange Rate,Data,ZAR,0.072872
+Codes,Header,Code,Meaning,Code (Cont.),Meaning (Cont.)
+Codes,Data,A,Assignment
+Codes,Data,AEx,Automatic exercise for dividend-related recommendation.
+Codes,Data,Adj,Adjustment
+Codes,Data,Al,Allocation
+Codes,Data,Aw,Away Trade
+Codes,Data,B,Automatic Buy-in
+Codes,Data,Bo,Direct Borrow
+Codes,Data,C,Closing Trade
+Codes,Data,CD,Cash Delivery
+Codes,Data,CP,Complex Position
+Codes,Data,Ca,Cancelled
+Codes,Data,Co,Corrected Trade
+Codes,Data,Cx,Part or all of this transaction was a Crossing executed as dual agent by IB for two IB customers
+Codes,Data,ETF,ETF Creation/Redemption
+Codes,Data,Ep,Resulted from an Expired Position
+Codes,Data,Ex,Exercise
+Codes,Data,G,Trade in Guaranteed Account Segment
+Codes,Data,HC,Highest Cost tax basis election
+Codes,Data,HFI,Investment Transferred to Hedge Fund
+Codes,Data,HFR,Redemption from Hedge Fund
+Codes,Data,I,Internal Transfer
+Codes,Data,IA,This transaction was executed against an IB affiliate
+Codes,Data,INV,Investment Transfer from Investor
+Codes,Data,IPO,This transaction was executed as part of an IPO in which IB was a member of the selling group and is classified as a Principal trade.
+Codes,Data,L,Ordered by IB (Margin Violation)
+Codes,Data,LD,Adjusted by Loss Disallowed from Wash Sale
+Codes,Data,LI,"Last In, First Out (LIFO) tax basis election"
+Codes,Data,LT,Long Term P/L
+Codes,Data,Lo,Direct Loan
+Codes,Data,M,Entered manually by IB
+Codes,Data,MEx,Manual exercise for dividend-related recommendation.
+Codes,Data,ML,Maximize Losses tax basis election
+Codes,Data,MLG,Maximize Long Term Gain tax basis election
+Codes,Data,MLL,Maximize Long Term Loss tax basis election
+Codes,Data,MSG,Maximize Short Term Gain tax basis election
+Codes,Data,MSL,Maximize Short Term Loss tax basis election
+Codes,Data,O,Opening Trade
+Codes,Data,P,Partial Execution
+Codes,Data,PI,Price Improvement
+Codes,Data,Po,Interest or Dividend Accrual Posting
+Codes,Data,Pr,Part or all of this transaction was executed by the Exchange as a Crossing by IB against an IB affiliate and is therefore classified as a Principal and not an agency trade
+Codes,Data,R,Dividend Reinvestment
+Codes,Data,RED,Redemption to Investor
+Codes,Data,Re,Interest or Dividend Accrual Reversal
+Codes,Data,Ri,Reimbursement
+Codes,Data,SI,This order was solicited by Interactive Brokers
+Codes,Data,SL,Specific Lot tax basis election
+Codes,Data,SO,This order was marked as solicited by your Introducing Broker
+Codes,Data,SS,Customer designated this trade for shortened settlement and so is subject to execution at prices above the prevailing market
+Codes,Data,ST,Short Term P/L
+Codes,Data,T,Transfer
+Notes/Legal Notes,Header,Type,Note
+Notes/Legal Notes,Data,Notes,"Most stock exchange transactions settle on the trade date plus two business days. Options, futures and US open-end mutual fund transactions settle on trade date plus one business day. (Some exchanges and other transaction types may have longer or shorter settlement periods.) Ending settled cash reflects the cash that has actually settled."
+Notes/Legal Notes,Data,Notes,Initial and maintenance margin requirements are available within the Account Window of the Trader Workstation.
+Notes/Legal Notes,Data,Notes,"Interactive Brokers LLC receives compensation from fund companies in connection with the purchase and holding of fund shares by customers of Interactive Brokers LLC. Such compensation includes, but is not limited to, Rule 12b-1 fees that are paid out of the funds assets. The source and amount of any remuneration received by Interactive Brokers LLC in connection with a transaction will be furnished upon written request of the customer.  IB may share a portion of the compensation received from fund companies with your financial advisor or introducing broker."
+Notes/Legal Notes,Data,Notes,Quantities preceded by a "-" sign indicate sell transactions. Other transactions are purchases. 
+Notes/Legal Notes,Data,Notes,"In case of partial executions, commissions are charged on the total quantity executed on the original order. The commission is displayed on the first partial execution only."
+Notes/Legal Notes,Data,Notes,Each closed lot indicated above with a reference to note (6) was chosen by the end of the trading day to be sold versus the specific opening purchase identified in that row.
+Notes/Legal Notes,Data,Notes,Trade execution times are displayed in Eastern Time.
+Notes/Legal Notes,Data,Notes,Applicable commodity Regulatory Fees for your transactions are available on the IB website at www.interactivebrokers.com/en/accounts/fees/exchangeAndRegulatoryFees.php.
+Notes/Legal Notes,Data,Notes,"Borrow Fee Rate represents the cost to borrow stock expressed in percent per annum. It is applied to the cash collateral amount on the stock borrow contract and is separate from any interest earned on credit cash balances. Similarly, Loan Fee Rate represents the benefit to lend stock. A positive rate indicates a cost to the borrower/benefit to the lender and a negative rate indicates a benefit to the borrower/cost to the lender. In general, the fee rates for hard-to-borrow stocks are higher than for normal availability stocks."
+Notes/Legal Notes,Data,Notes,Interest Rate on Customer Collateral represents the interest paid on the collateral posted to the customer's account and received from lending stock.  A positive rate indicates a benefit to the lender.
+Notes/Legal Notes,Data,Notes,"The closing prices on this Activity Statement are indicative and may come from third-party sources. Interactive Brokers does not warrant the accuracy of the prices provided by third-party sources. Due to time zone differences, certain non-US mutual funds may deliver closing prices after the Activity Statement has been produced and the closing prices for such funds will reflect the previous day's price."
+Notes/Legal Notes,Data,Fixed Income Notes,"Call features for bonds or preferred stocks may affect the yield. For zero coupon, compound interest and multiplier securities, there are no periodic payments and securities may be callable below maturity value without notice to holder unless registered. For asset-backed securities, the actual yield may vary depending on the speed at which the underlying note is pre-paid. For additional information regarding bond yield, please contact the IB Help Desk at: help@interactivebrokers.com. If this debt security is unrated by a nationally recognized statistical rating organization, it may pose a high risk of default. You should consult a financial advisor to determine whether unrated bonds are appropriate for your portfolio in light of your goals and your financial circumstances. Fees charged by bond trading centers are included in the cost of bond transactions."
+Notes/Legal Notes,Data,Legal Notes,"Please promptly report any inaccuracy or discrepancy in this statement, or in your account. Contact the IB Customer Service Department in writing using the form available on the IB website. You may also contact IB by phone, but if you report an error by phone, you should re-confirm such oral communication in writing in order to protect your rights, including rights under the Securities Investor Protection Act (SIPA).Interactive Brokers LLC, www.interactivebrokers.com, 877-442-2757 (U.S.)Interactive Brokers (UK) (Ltd), www.interactivebrokers.co.uk, 00800-42-276537 (Intl)Interactive Brokers Canada Inc., www.interactivebrokers.ca, 877-745-4222 (Can.)"
+Notes/Legal Notes,Data,Legal Notes,"Unless otherwise noted, Interactive Brokers acted as agent in the execution of the above transactions. For those exchanges where IB is not a direct clearing member or custodian, IB may use one of the following clearing agents or sub-custodians: Interactive Brokers Australia Pty Limited; Interactive Brokers Canada Inc.; Interactive Brokers Hong Kong Limited; Interactive Brokers Securities Japan, Inc.; Interactive Brokers (U.K.) Limited; Timber Hill Europe AG; ABN Amro Clearing Singapore Pte. Ltd.; ABN Amro Clearing Sydney Pty Ltd.; BBVA Bancomer, S.A.; BNP Securities Services, Milan Branch; BMO Harris Bank N.A.; Citibank International plc; Euroclear Bank S.A./N.V.; Shinhan Securities Co., Ltd.; Skandinaviska Enskilda Banken AB.; Skandinaviska Enskilda Merchang Banking, Oslo Branch"
+Notes/Legal Notes,Data,Legal Notes,"IB acts as agent or riskless principal in foreign currency exchange transactions.  Such transactions are executed against an IB affiliate or a third party, which acts as principal in such transactions and may have a long or short position and may have profited or lost in connection with the transaction.  Foreign currency exchange transactions executed by Customer through IB are not regulated or overseen by the SEC or the CFTC."
+Notes/Legal Notes,Data,Legal Notes,"Trades marked with the exchange indicator of TMBR were effected by IB as agent through a market making affiliate, which acted as principal in the transaction and may have a long or short position in the security and may have profited or lost in connection with the transaction."
+Notes/Legal Notes,Data,Legal Notes,"All VWAP trades are effected pursuant to an average price formula based on a reference price provided by a third-party data provider. Additional information and reference prices are available upon request. IB, as agent, effects VWAP transactions through a market making affiliate, which acts as principal in such transactions and may have a long or short position in the security and may have profited or lost in connection with the transaction."
+Notes/Legal Notes,Data,Legal Notes,"IB accepts liquidity rebates or other order flow payments from Alternative Trading Systems, market makers and exchanges for certain orders in stocks. IB receives payment for some option orders pursuant to exchange-mandated marketing fee programs or other arrangements. To the extent permissible under exchange rules, IB may direct customer option orders for execution against its market making affiliate Timber Hill LLC, which acts as principal and may earn a profit or incur a loss. The source and nature of any compensation received by IB in connection with any transaction is available upon written request of the customer. For further information, check the IB website and the Order Routing and Payment for Order Flow Disclosure provided when you opened your account and annually or email help@interactivebrokers.com."
+Notes/Legal Notes,Data,Legal Notes,"For security futures trades, if not already indicated on this statement, information about the time of any transaction, the identity of the counterparty to the transaction, and whether IB is acting as agent or principal, as agent for the counterparty, as agent for both parties to the contract, or as principal, and if acting as principal, whether the transaction was a block transaction or an exchange for physicals transaction, will be available upon written request of the customer."
+Notes/Legal Notes,Data,Legal Notes,Customer is requested to promptly advise Interactive Brokers of any material change in Customer's investment objectives or financial situation.
+Notes/Legal Notes,Data,Legal Notes,"A financial statement of Interactive Brokers LLC is available for your personal inspection at www.interactivebrokers.com or at its offices, or a copy of it will be mailed upon your written request."
+Notes/Legal Notes,Data,Legal Notes,"For trades executed on either the Australian Stock Exchange Ltd (""ASX"") or Chi-X Australia Pty Ltd (""Chi-X""), this confirmation is issued subject to: (i) the directions, decisions and requirements of the Market Operator, the relevant Market Integrity Rules, the relevant Market Operating Rules, the Clearing Rules and where relevant, the Settlement Rules; (ii) the customs and usages of the relevant Market; and (iii) the correction of errors and omissions. Interactive Brokers LLC (ARBN: 091191141, AFSL: 245574, Participant on Chi-X Australia)(""IB"") is not a participant on the ASX, and will route orders to the ASX through its affiliate, Timber Hill Australia Pty Ltd (ABN 25079993534, AFSL: 244380, Participant on the ASX)(""THA"") who executes such orders. Your ASX and Chi-x Australia trades will be cleared through ABN Amro Clearing Sydney Pty Ltd, an ACH participant. If your transaction was a crossing transaction, IB may have either acted on behalf of (i) both the buyer and seller of this transaction, or (ii) on behalf of the buyer or seller on one side of the transaction and act as Principal on the other side. Under the Corporations Act 2001, where IB enters into an exchange traded derivatives on a customer's behalf, IB is regarded as having issued the derivative to the customer."
+Notes/Legal Notes,Data,Legal Notes,"For All Options Trades Executed on the Stock Exchange of Hong Kong (""SEHK""): (a) Options can involve a high degree of risk and may not be suitable for every investor. Investors should ensure they understand those risks before participating in the options market. (b) All options contracts executed on the SEHK were executed by Timber Hill Securities Hong Kong on behalf of Interactive Brokers LLC. (c) In the event of a default committed by Interactive Brokers LLC resulting in the client suffering any pecuniary loss, the client shall have a right to claim under the Investor Compensation Fund established under the Hong Kong Securities and Futures Ordinance, subject to the terms of the Investor Compensation Fund from time to time. (d) All Exchange Traded Options Business made for or on behalf of a client shall be subject to the relevant provisions of the constitution, Rules of The Stock Exchange of Hong Kong Limited (""SEHK Rules""), regulations, the Articles, customs and usages of SEHK, the Options Trading Rules, the Clearing Rules of SEOCH, the CCASS Rules and the laws of Hong Kong, which shall be binding on both Interactive Brokers LLC and the client."
+Notes/Legal Notes,Data,Legal Notes,"Deposits held away from Interactive Brokers LLC may not qualify under SIPC protection.  Also, futures and options on futures are not covered by SIPC."
+Notes/Legal Notes,Data,,SIPC Member
